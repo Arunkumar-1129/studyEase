@@ -14,11 +14,17 @@ const subjectsByDepartment = {
     { id: 'ml', name: 'Machine Learning', semester: 8 }
   ],
   'Electronics & Communication Engineering (ECE)': [
-    { id: 'signals', name: 'Signals and Systems', semester: 4 },
-    { id: 'dsp', name: 'Digital Signal Processing', semester: 5 },
-    { id: 'comm', name: 'Communication Systems', semester: 6 },
-    { id: 'vlsi', name: 'VLSI Design', semester: 7 },
-    { id: 'embedded', name: 'Embedded Systems', semester: 6 }
+    { id: 'calculus', name: 'Calculus', semester: 1 },
+    { id: 'cprog', name: 'C Programming', semester: 1 },
+    { id: 'appdesign', name: 'Application Design', semester: 1 },
+    { id: 'complex', name: 'Complex Variables and Transforms', semester: 2 },
+    { id: 'circuit', name: 'Circuit Analysis', semester: 2 },
+    { id: 'ds', name: 'Data Structures', semester: 2 },
+    { id: 'logical', name: 'Logical Thinking', semester: 2 },
+    { id: 'linear', name: 'Linear Algebra', semester: 3 },
+    { id: 'analog', name: 'Analog Circuits', semester: 3 },
+    { id: 'digital', name: 'Digital Systems', semester: 3 },
+    { id: 'java', name: 'Java', semester: 3 }
   ],
   'Mechanical Engineering (ME)': [
     { id: 'thermo', name: 'Thermodynamics', semester: 4 },
